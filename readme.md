@@ -88,6 +88,7 @@ Task                                     | Description
 `watch`                                  | Should `build_conditional` then watch / incremental and `start`.      |
 `test`                                   | Should `build` and test the project with artifacts written to `public/test` |
 `pack`                                   | Should `build` and produce redistributable in `public/pack`              |
+
 For example implementations of the above interface, run `smoke-pack create` for one of the project templates provided with this project.
 
 
