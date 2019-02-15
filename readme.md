@@ -2,6 +2,8 @@
 
 A npm project provisioning and build system for browser, electron, node and library projects.
 
+[![NPM package](https://badge.fury.io/js/smoke-pack.svg)](https://www.npmjs.com/package/smoke-pack)
+
 ```
 npm install smoke-pack -g
 ```
