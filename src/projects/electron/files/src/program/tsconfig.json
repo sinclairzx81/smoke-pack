@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "lib": ["dom", "esnext"],
+    "preserveWatchOutput": true
+  },
+  "files": [
+    "index.ts"
+  ]
+}

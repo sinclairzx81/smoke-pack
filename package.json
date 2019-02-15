@@ -1,0 +1,38 @@
+{
+  "name": "smoke-pack",
+  "version": "0.8.0",
+  "license": "MIT",
+  "description": "A project provisioning and build system for browser, electron, node and wasm projects.",
+  "author": "sinclairzx81",
+  "scripts": {
+    "clean": "smoke-task clean",
+    "start": "smoke-task start",
+    "build": "smoke-task build",
+    "pack": "smoke-task pack",
+    "install-cli": "smoke-task install_cli",
+    "watch": "smoke-task watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinclairzx81/smoke-pack"
+  },
+  "bin": {
+    "smoke-pack": "./start"
+  },
+  "preferGlobal": true,
+  "devDependencies": {
+    "@types/node": "^8.0.7",
+    "shx": "^0.2.2",
+    "smoke-task": "^1.0.5",
+    "smoke-run": "^1.0.2",
+    "typescript": "^3.2.4",
+    "typescript-bundle": "^1.0.11"
+  },
+  "keywords": [
+    "build",
+    "link",
+    "npm",
+    "automation",
+    "mono-repo"
+  ]
+}
