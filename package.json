@@ -1,6 +1,6 @@
 {
   "name": "smoke-pack",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "license": "MIT",
   "description": "A project provisioning and build system for browser, electron, node and wasm projects.",
   "author": "sinclairzx81",
@@ -23,10 +23,10 @@
   "devDependencies": {
     "@types/node": "^8.0.7",
     "shx": "^0.2.2",
-    "smoke-task": "^1.0.5",
+    "smoke-task": "^1.0.7",
     "smoke-run": "^1.0.2",
     "typescript": "^3.2.4",
-    "typescript-bundle": "^1.0.11"
+    "typescript-bundle": "^1.0.16"
   },
   "keywords": [
     "build",

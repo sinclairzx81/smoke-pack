@@ -20,7 +20,7 @@
   "devDependencies": {
     "shx": "^0.2.2",
     "smoke-run": "^1.0.2",
-    "smoke-task": "^1.0.5"
+    "smoke-task": "^1.0.7"
   },
   "dependencies": {}
 }
